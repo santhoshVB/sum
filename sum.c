@@ -5,3 +5,6 @@ main()
 	for(i=0;i<value,i++)
 	printf("the sum is %d\n",sum)
 }
+
+
+this is sum.txt file
